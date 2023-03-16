@@ -1,0 +1,5 @@
+require("core")
+require("core.keymaps")
+require("plugins")
+require("plugins.plugins_configs")
+-- require("core.autocmds")
